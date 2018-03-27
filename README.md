@@ -76,7 +76,7 @@ Luego se decidió en equipo hacer una votación para realizar el inventario fina
 ![](https://i.imgur.com/5cE1yMv.png)
 
 
-Una vez obtenidos los resultados de esta votación en grupo, se procesió a realizar el contenido de nuestra plataforma.
+Una vez obtenidos los resultados de esta votación en grupo, se procedió a realizar el contenido de nuestra plataforma.
 
 ## Content Prototype
 
