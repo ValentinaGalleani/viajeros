@@ -3,9 +3,7 @@ Proyecto digital enfocado a la mejora de experiencia en el servicio de empresas 
 
 ![portadaviajeros](https://user-images.githubusercontent.com/32281819/37947159-e3feae76-315f-11e8-8335-1336bf9c538c.jpg)
 
-![](https://i.imgur.com/7DSAKla.png)
-![](https://i.imgur.com/esm4EJN.png)
-![](https://i.imgur.com/ed06KpU.png)
+![](https://i.imgur.com/oEWDz4z.jpg)
 
 ## Research
 
