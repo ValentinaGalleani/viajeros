@@ -5,6 +5,10 @@ Proyecto digital enfocado a la mejora de experiencia en el servicio de empresas 
 
 ![](https://i.imgur.com/oEWDz4z.jpg)
 
+## Desarrollado para 
+[Laboratoria](http://www.laboratoria.la/)
+
+
 ## Research
 
 Para realizar las entrevistas en este proceso de la investigación, fuimos a entrevistar en terreno a los usuarios directos, al terminal de buses de Santiago.
